@@ -1,0 +1,12 @@
+.swipe-left {
+  transform: translateX(-150%) rotate(-20deg) !important;
+  opacity: 0;
+}
+.swipe-right {
+  transform: translateX(150%) rotate(20deg) !important;
+  opacity: 0;
+}
+.swipe-up {
+  transform: translateY(-150%) !important;
+  opacity: 0;
+} 
